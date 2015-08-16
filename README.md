@@ -2,7 +2,7 @@
 Simple mapping of requests to actions.
 
 Example:
-```
+```lua
 local request = {
     host = "localhost",
     method = "GET",
